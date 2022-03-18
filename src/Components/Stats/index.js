@@ -1,5 +1,5 @@
 import React from "react";
-import { Stat, StatGrid, Wrapper } from "./styled";
+import { StatGrid, Wrapper } from "./styled";
 
 export const Stats = () => {
   return (
